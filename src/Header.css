@@ -1,0 +1,33 @@
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #f0f0f0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.site-header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.nav-links a {
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #2e7d32;
+}
+
+.nav-links a.active {
+    text-decoration: underline;
+}
+
+.cart-count {
+    background-color: #2e7d32;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 50%;
+    font-size: 12px;
+    margin-left: 5px;
+}
