@@ -76,7 +76,7 @@ const ProductListing = () => {
 
   // Use relative path without slash for GitHub Pages compatibility
   const backgroundStyle = {
-    backgroundImage: 'url("plants/plants.jpg")',
+    backgroundImage: `url(${process.env.PUBLIC_URL}/plants/plants.jpg)`,
   };
 
   return (

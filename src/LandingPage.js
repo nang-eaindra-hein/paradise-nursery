@@ -4,7 +4,7 @@ import "./LandingPage.css";
 
 const LandingPage = () => {
   const backgroundStyle = {
-    backgroundImage: 'url("plants/plants.jpg")',
+    backgroundImage: `url(${process.env.PUBLIC_URL}/plants/plants.jpg)`,
   };
 
   return (
