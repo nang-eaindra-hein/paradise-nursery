@@ -1,19 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./LandingPage.css";
-import Header from "./Header";
-<>
-  <Header />
-  <div className="landing-page">
-    <div className="overlay">
-      ...
-    </div>
-  </div>
-</>
 
 const LandingPage = () => {
   const backgroundStyle = {
-    backgroundImage: 'url("/plants.jpg")',
+    backgroundImage: 'url("/paradise-nursery/plants/plants.jpg")',
   };
 
   return (
