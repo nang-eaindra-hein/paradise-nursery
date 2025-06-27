@@ -9,7 +9,7 @@ const plants = [
     id: 1,
     name: "Monstera Deliciosa",
     price: 25.99,
-    image: "/paradise-nursery/plants/monstera.jpg",
+    image: "plants/monstera.jpg",
     category: "Tropical",
     description: "Monstera has iconic split leaves and thrives in bright, indirect sunlight. A bold statement plant."
   },
@@ -17,7 +17,7 @@ const plants = [
     id: 2,
     name: "Snake Plant",
     price: 19.99,
-    image: "/paradise-nursery/plants/snake.jpg",
+    image: "plants/snake.jpg",
     category: "Air Purifying",
     description: "Snake plants are incredibly low maintenance and filter toxins from the air. Great for beginners."
   },
@@ -25,7 +25,7 @@ const plants = [
     id: 3,
     name: "Peace Lily",
     price: 22.5,
-    image: "/paradise-nursery/plants/peace.jpg",
+    image: "plants/peace.jpg",
     category: "Flowering",
     description: "Peace Lilies bloom white flowers and enjoy shady spots. Known for improving indoor air quality."
   },
@@ -33,7 +33,7 @@ const plants = [
     id: 4,
     name: "Pothos",
     price: 15.0,
-    image: "/paradise-nursery/plants/pothos.jpg",
+    image: "plants/pothos.jpg",
     category: "Air Purifying",
     description: "Pothos is a trailing plant with heart-shaped leaves. Perfect for hanging baskets or shelves."
   },
@@ -41,7 +41,7 @@ const plants = [
     id: 5,
     name: "Aloe Vera",
     price: 12.75,
-    image: "/paradise-nursery/plants/aloe.jpg",
+    image: "plants/aloe.jpg",
     category: "Succulents",
     description: "Aloe is a soothing succulent that stores water and has medicinal gel in its leaves. Loves sunlight."
   },
@@ -49,7 +49,7 @@ const plants = [
     id: 6,
     name: "Fiddle Leaf Fig",
     price: 29.5,
-    image: "/paradise-nursery/plants/fig.jpg",
+    image: "plants/fig.jpg",
     category: "Tropical",
     description: "Fiddle Leaf Fig is a tall beauty with large glossy leaves. Loves bright, consistent lighting."
   },

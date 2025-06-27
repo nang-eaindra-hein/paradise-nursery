@@ -4,7 +4,7 @@ import "./LandingPage.css";
 
 const LandingPage = () => {
   const backgroundStyle = {
-    backgroundImage: 'url("/paradise-nursery/plants/plants.jpg")',
+    backgroundImage: 'url("plants/plants.jpg")',
   };
 
   return (
